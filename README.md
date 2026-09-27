@@ -41,13 +41,12 @@ How to Run the Game
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Mk567m/Simple-rock-paper-scissors-game.git
 
-2. Navigate to the project folder:
+2. Open the cloned repo folder in VScode or any other Text-Editor
 
-cd your-repository-name
 
-3. Run the Python file:
+4. Run the Python file:
 
 python quizgame.py
 
@@ -59,7 +58,3 @@ Computer picked: paper
 You picked: rock
 
 You lose!!!
-
-Author
-
-Mustafa Khan
